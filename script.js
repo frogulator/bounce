@@ -42,7 +42,7 @@ const playerHeight = player.offsetHeight;
 const maxLeft = pageWidth - playerWidth;
 const maxTop = pageHeight - playerHeight;
 const speed = 1;
-const bounceRange = 0.95;
+const bounceRange = 1;
 let directionX = 1;
 let directionY = 1;
 
